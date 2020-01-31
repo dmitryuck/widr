@@ -1,0 +1,65 @@
+$break-small: 450px;
+$break-medium: 950px;
+$break-large: 1200px;
+
+.loadingScreenContainer {
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.logoImage {
+  width: 102px;
+  height: 30px;
+  left: 40px;
+  top: 22px;
+  position: absolute;
+
+  @media screen and (max-width: $break-small) {
+    left: auto;
+  }
+}
+
+.loadingPanel {
+  min-width: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+
+  h2 {
+    font-size: 20px;
+    color: #FFFFFF;
+    font-weight: 600;
+    word-wrap: normal;
+  }
+
+  .loadingIndicator {
+    margin-top: 10px;
+    width: 40px;
+    height: 8px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+    .loadingPoint {
+      background-color: rgba(246, 225, 148, 0.5);
+      border-radius: 100%;
+      width: 8px;
+      height: 8px;
+      display: inline-block;
+    }
+
+    .activeLoadingPoint {
+      background-color: #F6E194;
+      border-radius: 100%;
+      width: 8px;
+      height: 8px;
+      display: inline-block;
+    }
+  }
+}

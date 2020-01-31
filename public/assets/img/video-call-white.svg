@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="15px" viewBox="0 0 24 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 61.1 (101010) - https://sketch.com -->
+    <title>D6D37BF0-877D-45B0-BF23-542DE9F4BE5B</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="Video-Call-test-task" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1" transform="translate(-646.000000, -953.000000)" fill="#FFFFFF">
+            <g id="main-group" transform="translate(570.000000, 934.000000)">
+                <g id="button" transform="translate(62.000000, 0.000000)">
+                    <g id="icon/call/video-call-white" transform="translate(10.000000, 10.000000)">
+                        <g id="icons8-video-call" transform="translate(4.000000, 9.333333)">
+                            <path d="M1.6,0 C0.716,0 0,0.716 0,1.6 L0,12.8 C0,13.684 0.716,14.4 1.6,14.4 L15.2,14.4 C16.084,14.4 16.8,13.684 16.8,12.8 L16.8,1.6 C16.8,0.716 16.084,0 15.2,0 L1.6,0 Z M23.2,1.6 C22.9916541,1.6 22.7915289,1.68128664 22.6421872,1.82656248 L18.4,5.6 L18.4,7.2 L18.4,8.8 L22.6593752,12.5890624 L22.6718752,12.6 C22.8177509,12.7286506 23.0054991,12.7997505 23.2,12.8 C23.6418278,12.8 24,12.4418278 24,12 L24,7.2 L24,2.4 C24,1.9581722 23.6418278,1.6 23.2,1.6 Z" id="Shape" fill-rule="nonzero"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
